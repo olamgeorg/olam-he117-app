@@ -1,0 +1,6 @@
+{
+  "name": "HEE117 Quiz Hub",
+  "description": "An interactive, section-by-section university exam preparatory quiz for HEE117 developed by Olamidegeorge with Exam and Practice modes, customized background colors, progress tracking, review modes, and auditory feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
